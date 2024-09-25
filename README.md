@@ -19,7 +19,4 @@ Projenin temel hedefleri:
 - **Veri Ön İşleme**: Eksik değerlerin yönetimi, veri setinin temizlenmesi ve özellik mühendisliği.
 - **Keşifsel Veri Analizi**: Verinin derinlemesine incelenmesi ve uyku sağlığı ile yaşam tarzı değişkenleri arasındaki ilişkilerin görselleştirilmesi.
 - **Modelleme**: Makine öğrenmesi modelleri ile uyku kalitesini tahmin etme.
-
----
-
-Bu taslak, projenin genel hatlarını özetliyor. İstersen ekleme veya düzenleme yapabilirsin!
+  
